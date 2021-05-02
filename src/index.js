@@ -34,8 +34,8 @@ export default function App() {
 
   return (
     <div className="mainContainer">
-      <h1>How are you feeling today?</h1>
-	  <h2>By <a href="https://github.com/danielhochman">@danielhochman</a>. Powered by Flickr.</h2>
+      <h1>How are you feeling today? (forked)</h1>
+	  <h2>Original By <a href="https://github.com/danielhochman">@danielhochman</a>. Powered by Flickr.</h2>
       {loading ? (
         <Spinner />
       ) : (
@@ -48,7 +48,6 @@ export default function App() {
           ))}
         </div>
       )}
-      <h4>hello Esther ;)</h4>
     </div>
   );
 }
