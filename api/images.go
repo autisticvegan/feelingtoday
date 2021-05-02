@@ -14,10 +14,10 @@ import (
 var apiKey = os.Getenv("FLICKR_API_KEY")
 
 var animals = []string{
-	"macaque",
+	"monkey",
 	"cat",
 	"dog",
-	"pallas cat",
+	"wolf",
 	"fox",
 	"gorilla",
 	"lemur",
@@ -28,7 +28,6 @@ var animals = []string{
 	"bear",
 	"polar bear",
 	"baboon",
-	"llama",
 	"hedgehog",
 }
 
@@ -36,11 +35,11 @@ var emotions = []string{
 	"happy",
 	"sad",
 	"",
-	"angry",
+	"howling",
 	"feeding",
 	"sleeping",
 	"surprised",
-	"relaxed",
+	"running",
 	"cute",
 }
 
