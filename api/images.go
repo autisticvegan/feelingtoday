@@ -25,7 +25,6 @@ var animals = []string{
 	"otter",
 	"bear",
 	"polar bear",
-	"capybara",
 	"baboon",
 	"llama",
 }
@@ -34,11 +33,11 @@ var emotions = []string{
 	"happy",
 	"sad",
 	"",
-	"angry pet",
+	"angry",
 	"feeding",
 	"sleeping",
 	"pet",
-	"cute",
+	"relaxed",
 	"tired",
 }
 
