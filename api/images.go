@@ -27,7 +27,6 @@ var animals = []string{
 	"otter",
 	"bear",
 	"polar bear",
-	"baboon",
 	"hedgehog",
 }
 
@@ -35,7 +34,7 @@ var emotions = []string{
 	"happy",
 	"sad",
 	"",
-	"howling",
+	"mouth open",
 	"feeding",
 	"sleeping",
 	"surprised",
