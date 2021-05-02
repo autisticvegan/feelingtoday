@@ -27,6 +27,7 @@ var animals = []string{
 	"polar bear",
 	"baboon",
 	"llama",
+	"hedgehog",
 }
 
 var emotions = []string{
