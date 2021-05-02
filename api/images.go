@@ -17,6 +17,8 @@ var animals = []string{
 	"macaque",
 	"cat",
 	"dog",
+	"pallas cat",
+	"fox",
 	"gorilla",
 	"lemur",
 	"lion",
@@ -37,9 +39,9 @@ var emotions = []string{
 	"angry",
 	"feeding",
 	"sleeping",
-	"pet",
+	"surprised",
 	"relaxed",
-	"tired",
+	"cute",
 }
 
 type RawPhotosResponse struct {
