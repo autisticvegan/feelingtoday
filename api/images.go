@@ -33,7 +33,7 @@ var animals = []string{
 var emotions = []string{
 	"happy",
 	"sad",
-	"",
+	"", // neutral
 	"mouth open",
 	"feeding",
 	"sleeping",
