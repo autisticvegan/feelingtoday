@@ -34,12 +34,12 @@ var emotions = []string{
 	"happy",
 	"sad",
 	"", // neutral
-	"mouth open",
+	"smiling",
 	"feeding",
 	"sleeping",
 	"surprised",
-	"running",
-	"cute",
+	"fast",
+	"mouth open",
 }
 
 type RawPhotosResponse struct {
