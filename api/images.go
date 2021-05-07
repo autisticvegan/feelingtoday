@@ -38,7 +38,7 @@ var emotions = []string{
 	"feeding",
 	"sleeping",
 	"surprised",
-	"fast",
+	"jumping",
 	"mouth open",
 }
 
