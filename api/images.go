@@ -34,7 +34,7 @@ var emotions = []string{
 	"happy",
 	"sad",
 	"", // neutral
-	"smiling",
+	"silly",
 	"feeding",
 	"sleeping",
 	"surprised",
